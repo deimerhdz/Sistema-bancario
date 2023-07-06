@@ -1,9 +1,9 @@
 package models;
-
-public class Cuenta extends Transaccion {
-    private String entidad;
-    private String sucursal;
-
+/**
+ *
+ * @author Deimer Hernandez
+ */
+public class TarjetaDebito extends Transaccion {
     @Override
     public void ingresar() {
 

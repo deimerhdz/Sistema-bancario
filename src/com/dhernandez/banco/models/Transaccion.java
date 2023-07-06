@@ -1,5 +1,8 @@
 package models;
-
+/**
+ *
+ * @author Deimer Hernandez
+ */
 public abstract class Transaccion {
     private String numero;
     public abstract void ingresar();

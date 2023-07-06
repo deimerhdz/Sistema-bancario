@@ -1,6 +1,10 @@
 package models;
+/**
+ *
+ * @author Deimer Hernandez
+ */
+public class TarjetaCredito extends Transaccion {
 
-public class TarjetaDebito extends Transaccion {
     @Override
     public void ingresar() {
 

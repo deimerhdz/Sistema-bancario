@@ -14,3 +14,8 @@ del tipo de cliente que las abra:
 Tal y como se ve, aunque puede parecer que se ofrecen siempre los mismos productos, existen ciertas particularidades entre ellos que hacen que sean distintos, ciertas características que hacen que se construyan de manera distinta.
 
 Representar el conjunto de productos mediante un diagrama de clases.
+
+
+## Authors
+
+- [@deimerhdz](https://github.com/deimerhdz)

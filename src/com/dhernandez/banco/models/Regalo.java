@@ -1,5 +1,8 @@
 package models;
-
+/**
+ *
+ * @author Deimer Hernandez
+ */
 public class Regalo {
     private String descripcion;
 
